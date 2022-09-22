@@ -1,0 +1,23 @@
+{
+  "modTexts": [
+    ["MOD_SOURCES_UNSUPPORTED", "Please install the PC version to enable the source code manager!" ],
+    ["MOD_SOURCES_TITLE", "Mod Source Codes" ],
+    ["PUBLISH", "Publish" ],
+    ["PUBLISH_ALL", "Publish All" ],
+    ["OPEN_SOURCES_FOLDER", "Open Sources Folder" ],
+    ["CREATE_MOD", "New Mod.." ],
+    ["CREATE_MOD_TITLE", "Create Mod" ],
+    ["CREATE_MOD_NEED_RELOAD", "Mod created successfully! The mod will be enabled after the game restarts." ],
+    ["MOD_EDITING", "Edit.." ],
+    ["MOD_PUBLISH_AT", "Mod %s published to %s"],
+    ["MOD_PUBLISH_SUCCESS", "Published %d mods successfully."],
+    ["MOD_PUBLISH_FAILED", "Failed to publish any mods, please check the relevant source code."],
+    ["MOD_PUBLISH_NEED_RESTART", "The published mod will be enabled after the game restarts."],
+    ["MOD_EDIT_DEV", "Mod editing feature is under development... The purpose is to make mod visual development, visually create/edit items, blocks, recipes, NPCs, skeleton models, buildings, etc. You can participate in the visual development of ModEdit through Github: https://github.com/skyblueyoshi/ModEdit"]
+    ["MOD_ID", "ID"],
+    ["MOD_DISPLAY_NAME", "Display Name"],
+    ["MOD_AUTHOR", "Author"],
+    ["MOD_FOLDER", "Folder Name"],
+    ["MOD_VERSION", "Version"]
+  ]
+}

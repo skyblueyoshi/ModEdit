@@ -1,0 +1,23 @@
+{
+  "modTexts": [
+    ["MOD_SOURCES_UNSUPPORTED", "手机端暂未开放源码管理功能，请使用电脑端进行模组开发。" ],
+    ["MOD_SOURCES_TITLE", "模组源码" ],
+    ["PUBLISH", "发布" ],
+    ["PUBLISH_ALL", "发布全部" ],
+    ["OPEN_SOURCES_FOLDER", "打开源码文件夹" ],
+    ["CREATE_MOD", "创建模组.." ],
+    ["CREATE_MOD_TITLE", "创建模组" ],
+    ["CREATE_MOD_NEED_RELOAD", "模组创建成功！模组将在游戏重启后生效。" ],
+    ["MOD_EDITING", "编辑模组.." ],
+    ["MOD_PUBLISH_AT", "模组 %s 发布于 %s"],
+    ["MOD_PUBLISH_SUCCESS", "成功发布%d个模组。"],
+    ["MOD_PUBLISH_FAILED", "未能发布任何模组，请检查相关源码。"],
+    ["MOD_PUBLISH_NEED_RESTART", "发布后的模组将在游戏重启后生效。"],
+    ["MOD_EDIT_DEV", "模组编辑功能正在开发中...该功能目的是实现可视化开发，可视化创建/编辑物品、方块、配方表、NPC、骨骼模型、建筑物等等，减少代码开发工作量。您可以通过Github共同参与ModEdit的可视化开发：https://github.com/skyblueyoshi/ModEdit"],
+    ["MOD_ID", "ID"],
+    ["MOD_DISPLAY_NAME", "显示名称"],
+    ["MOD_AUTHOR", "作者"],
+    ["MOD_FOLDER", "文件夹名称"],
+    ["MOD_VERSION", "版本"]
+  ]
+}
