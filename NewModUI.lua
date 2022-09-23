@@ -122,9 +122,9 @@ local ModProxy = class("ModProxy")
 function ModProxy:__init()
     self.m_proxy = nil
     if NetMode.current == NetMode.Server then
-        self.m_proxy = require("ServerProxy").new()
+        self.m_proxy = require("Server").new()
     else
-        self.m_proxy = require("ClientProxy").new()
+        self.m_proxy = require("Client").new()
     end
     self.m_proxy:registerProxy()
 end
