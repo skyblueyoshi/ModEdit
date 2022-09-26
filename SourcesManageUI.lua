@@ -231,6 +231,7 @@ function SourcesManagerUI:publish(index)
 end
 
 function SourcesManagerUI:openSourceFolder()
+    self.manager:playClickSound()
     if App.isPC then
         File.openFolderWindow(Path.join(App.persistentDataPath, "devmods"))
     end
